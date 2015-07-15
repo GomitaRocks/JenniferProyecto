@@ -7,11 +7,15 @@ git commit -am "cree el read me"
 - una letra
 -a -m = -am 
 
-echo
-HOla mundo 
+
 pull 
 
 git add .
 git commit -am ""
 git push origin master
+
+origin remoto
+master rama principal
+branch crear una nueva rama (prueba)
+
 
