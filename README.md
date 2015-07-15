@@ -10,3 +10,8 @@ git commit -am "cree el read me"
 echo
 HOla mundo 
 pull 
+
+git add .
+git commit -am ""
+git push origin master
+
